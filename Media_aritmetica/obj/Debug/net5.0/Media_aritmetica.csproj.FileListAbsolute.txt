@@ -1,0 +1,16 @@
+C:\Users\Fabiana\source\repos\Media_aritmetica\obj\Debug\net5.0\Media_aritmetica.csproj.AssemblyReference.cache
+C:\Users\Fabiana\source\repos\Media_aritmetica\obj\Debug\net5.0\Media_aritmetica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabiana\source\repos\Media_aritmetica\obj\Debug\net5.0\Media_aritmetica.AssemblyInfoInputs.cache
+C:\Users\Fabiana\source\repos\Media_aritmetica\obj\Debug\net5.0\Media_aritmetica.AssemblyInfo.cs
+C:\Users\Fabiana\source\repos\Media_aritmetica\obj\Debug\net5.0\Media_aritmetica.csproj.CoreCompileInputs.cache
+C:\Users\Fabiana\source\repos\Media_aritmetica\bin\Debug\net5.0\Media_aritmetica.exe
+C:\Users\Fabiana\source\repos\Media_aritmetica\bin\Debug\net5.0\Media_aritmetica.deps.json
+C:\Users\Fabiana\source\repos\Media_aritmetica\bin\Debug\net5.0\Media_aritmetica.runtimeconfig.json
+C:\Users\Fabiana\source\repos\Media_aritmetica\bin\Debug\net5.0\Media_aritmetica.runtimeconfig.dev.json
+C:\Users\Fabiana\source\repos\Media_aritmetica\bin\Debug\net5.0\Media_aritmetica.dll
+C:\Users\Fabiana\source\repos\Media_aritmetica\bin\Debug\net5.0\ref\Media_aritmetica.dll
+C:\Users\Fabiana\source\repos\Media_aritmetica\bin\Debug\net5.0\Media_aritmetica.pdb
+C:\Users\Fabiana\source\repos\Media_aritmetica\obj\Debug\net5.0\Media_aritmetica.dll
+C:\Users\Fabiana\source\repos\Media_aritmetica\obj\Debug\net5.0\ref\Media_aritmetica.dll
+C:\Users\Fabiana\source\repos\Media_aritmetica\obj\Debug\net5.0\Media_aritmetica.pdb
+C:\Users\Fabiana\source\repos\Media_aritmetica\obj\Debug\net5.0\Media_aritmetica.genruntimeconfig.cache

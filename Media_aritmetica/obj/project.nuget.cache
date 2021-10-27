@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QPoyoVODlGwuUjaJKAKXcbcs9Pf2a9Q+KYNzVcx28bkXB63znjUzgF9yyMcODU4kqgfh1mIP/GqWRj5zhdICAA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fabiana\\source\\repos\\Media_aritmetica\\Media_aritmetica.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fabiana\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.11\\microsoft.netcore.app.host.win-x64.5.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
